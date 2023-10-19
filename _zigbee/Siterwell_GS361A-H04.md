@@ -2,13 +2,14 @@
 date_added: 2020-04-04
 vendor: Siterwell
 model: GS361A-H04  
-title: Radiator Valve with Thermostat
+title: Smart Radiator Thermostat
 zigbeemodel:  ['ivfvd7h','_TYST11_zivfvd7h']
 category: hvac
 supports: temperature, thermostat, battery
-mlink: https://www.china-siter.com/product/194.html
-link: https://siterwell.en.alibaba.com/product/62304009839-810172947/Manufacture_Smoke_alarm_system_TRV_bluetooth_tuya_zigbee_wifi_rf_smart_radiator_room_thermostat.html
-link2: 
+mlink: https://www.red-dot.org/project/siterwell-gs361-39193/
+mlink2: https://www.china-siter.com/product/GS361A-H04-194.html
+link: https://www.alibaba.com/product-detail/Manufacture-Bluetooth-Tuya-ZigBee-Wifi-wireless_60782820931.html
+link2: https://www.alibaba.com/product-detail/Manufacturer-Electronic-Programmable-Bluetooth-RF868MHz-Tuya_60781949223.html
 compatible: [z2m,zha,z4d,deconz]
 deconz: 4770
 ---
